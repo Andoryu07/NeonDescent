@@ -1,0 +1,16 @@
+2,Drone-Scout,0,0,Scrap-Metal,1,n
+2,Sec-Bot,2,1,Force-Field,7,0,0
+2,Sec-Bot,0,0,Scrap-Metal,1,n
+3,Sniper-Unit,2,2,Rail-Gun,11
+3,Heavy-Enforcer,0,2,Plasma-Blade,10
+3,Corrupted-Archivist,0,0,Bio-Gel,1,n
+4,Hacker-Construct,3,2,Ion-Cannon,12
+6,Cyber-Mutant,1,1,Force-Field,7,0,0
+6,Cyber-Mutant,0,0,Bio-Gel,1,n
+6,Bio-Engineer,0,0,Nano-Stim,1,h
+6,Bio-Engineer,1,0,Nano-Stim,1,h
+7,Sentinel-Prime,0,0,Core-Access-Key,0,k
+7,Sentinel-Prime,0,2,Ion-Cannon,12
+7,Sentinel-Prime,2,0,Emergency-Beacon,0,s
+8,Auto-Turret,1,2,Rail-Gun,11
+9,Guardian-AI,0,1,Overclocking-Chip,0,0,6
